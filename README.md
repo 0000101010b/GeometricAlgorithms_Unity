@@ -2,7 +2,7 @@
 Geometric Algorithms in Unity
 
 <h2>Spacing algorithms:</h2>
-<h5>BSP<h5>
+<h5>BSP (binary Space Partitioning<h5>
 <p align="left">
     <img src="/BSP.PNG?raw=true" width="350"/>
 </p>
