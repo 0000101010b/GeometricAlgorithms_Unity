@@ -1,5 +1,5 @@
 # GeometricAlgorithms_Unity
-Geometric Algorithms in Unity
+Geometric Algorithms in Unity C#
 
 <h2>Spacing algorithms:</h2>
 <h5>BSP (Binary Space Partitioning)<h5>
