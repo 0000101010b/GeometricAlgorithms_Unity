@@ -11,5 +11,10 @@ Geometric Algorithms in Unity
 <p align="left">
     <img src="PythagorasTree.PNG?raw=true" width="350"/>
 </p>
-<h5>Other:    
--Convex Hull</h5>
+
+<h2>Other:</h2>   
+<h5>Convex Hull</h5>
+<p align="left">
+    <img src="ConvexHull.PNG?raw=true" width="350"/>
+</p>
+
