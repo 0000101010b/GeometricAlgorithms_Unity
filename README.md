@@ -1,9 +1,9 @@
 # GeometricAlgorithms_Unity
 Geometric Algorithms in Unity
 
-Spacing algorithms:
+Spacing algorithms:   
   -BSP
-Fractals:
+Fractals:   
   -Pythagoras Tree
-Other:
+Other:    
   -Convex Hull
