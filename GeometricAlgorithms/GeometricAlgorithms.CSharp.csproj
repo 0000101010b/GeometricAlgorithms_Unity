@@ -82,6 +82,7 @@
     <Compile Include="Assets\Code\Other\ConvexHull\ConvexHull.cs" />
     <Compile Include="Assets\Code\SpaceAlgorithms\BSP\BSP.cs" />
     <Compile Include="Assets\Code\SpaceAlgorithms\CellurAutomata\CellurAutomata.cs" />
+    <Compile Include="Assets\SierpinskiTriangle.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
