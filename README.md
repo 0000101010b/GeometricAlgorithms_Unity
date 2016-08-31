@@ -16,6 +16,10 @@ Geometric Algorithms in Unity C#
 <p align="left">
     <img src="PythagorasTree.PNG?raw=true" width="350"/>
 </p>
+<h5>Sierpinski triangle</h5>
+<p align="left">
+    <img src="Triangle.PNG?raw=true" width="350"/>
+</p>
 
 <h2>Other:</h2>   
 <h5>Convex Hull</h5>
